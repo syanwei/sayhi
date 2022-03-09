@@ -1,3 +1,6 @@
+# sayhi
+A simple message board application build with Flask.
+
 ## Installation
 
 install on linux or mac
