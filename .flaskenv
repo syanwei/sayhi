@@ -1,0 +1,2 @@
+FLASK_APP=comment_tree
+FLASK_ENV=development
